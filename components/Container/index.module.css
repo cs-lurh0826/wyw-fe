@@ -1,0 +1,9 @@
+.container {
+  position: relative;
+}
+
+.inner-wrapper {
+  padding: 20px 60px;
+  color: #ddd;
+  background-color: #282E34;
+}
